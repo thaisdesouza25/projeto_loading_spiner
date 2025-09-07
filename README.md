@@ -38,5 +38,3 @@ O arquivo style.css contém:
 👩‍💻 Autoria
 Projeto desenvolvido por Thaís de Souza
 📧 thaisdesouza@gmail.com
-
-Se quiser, posso te ajudar a transformar esse spinner em um componente reutilizável ou adicionar variações de estilo para diferentes contextos. Só me chamar!
